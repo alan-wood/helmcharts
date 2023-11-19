@@ -1,0 +1,39 @@
+{
+    "charts": {},
+    "test": {},
+    "stable": {
+    },
+    "dev": {
+        "svntest": {
+            "app_readme": "<p>Self hosted SVN repositories</p>\n<p>This App is supplied by Alan Wood, for more information visit the manual: <a href=\"https://github.com/alan-wood/helmcharts\">https://github.com/alan-wood/helmcharts</a></p>",
+            "categories": [
+                "SVN"
+            ],
+            "description": "Self hosted SVN repositories",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://github.com/alan-wood/helmcharts",
+            "location": "/home/runner/work/catalog/catalog/dev/svntest",
+            "latest_version": "1.0.0",
+            "latest_app_version": "1.0.0",
+            "latest_human_version": "1.0.0_1.0.0",
+            "last_update": "2023-11-19 04:27:30",
+            "name": "svntest",
+            "recommended": false,
+            "title": "SVN Test",
+            "maintainers": [
+                {
+                    "email": "alan.wood@nowmail.co.nz",
+                    "name": "Alan Wood",
+                    "url": "https://nodetech.co.nz"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/alan-wood/helmcharts/charts/svntest"
+            ],
+            "icon_url": "https://github.com/alan-wood/helmcharts/charts/svntest/icon.png"
+        }
+    }
+}
